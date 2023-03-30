@@ -1,1 +1,3 @@
-# Clone_Linktree
+### Clone_Linktree
+
+- Usado para estudos e divulgação pessoal.
