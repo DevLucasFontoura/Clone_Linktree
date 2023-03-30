@@ -1,3 +1,3 @@
 ### Clone_Linktree
 
-- Usado para estudos e divulgação pessoal.
+- Usado para estudo e divulgação pessoal.
